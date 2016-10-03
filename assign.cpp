@@ -4,8 +4,8 @@ using namespace std;
 
 class student 
 {
-	int regno,ap1cs01,ap1cs02,ap1cs03,ap1cs04,ap1ge51,ap1ma51,ap2cs01,ap2cs02,ap2cs03,ap2cs04,ap2ge51,ap2ma51,ap3cs01,ap3cs02,ap3cs03,ap3cs04,ap3ge51,ap3ma51,ap4cs01,ap4cs02,ap4cs03,ap4cs04,ap4ge51,ap4ma51,am2cs01,am2cs02,am2cs03,am2cs04,am2ge51,am2ma51,am3cs01,am3cs02,am3cs03,am3cs04,am3ge51,am3ma51,am4cs01,am4cs02,am4cs03,am4cs04,am4ge51,am4ma51,scs01,scs02,scs03,scs04,sge51,sma51,i1,i2,i3,i4,i5,i6,r1,r2,r3,r4,r5,r6;
-	double s1,s2,s3,s4,s5,s6;
+	int regno,ap1cs01,ap1cs02,ap1cs03,ap1cs04,ap1ge51,ap1ma51,ap2cs01,ap2cs02,ap2cs03,ap2cs04,ap2ge51,ap2ma51,ap3cs01,ap3cs02,ap3cs03,ap3cs04,ap3ge51,ap3ma51,ap4cs01,ap4cs02,ap4cs03,ap4cs04,ap4ge51,ap4ma51,am2cs01,am2cs02,am2cs03,am2cs04,am2ge51,am2ma51,am3cs01,am3cs02,am3cs03,am3cs04,am3ge51,am3ma51,am4cs01,am4cs02,am4cs03,am4cs04,am4ge51,am4ma51,scs01,scs02,scs03,scs04,sge51,sma51,i1,i2,i3,i4,i5,i6;
+	double s1,s2,s3,s4,s5,s6,r1,r2,r3,r4,r5,r6;
 	char name[25];
 	
 	public:
